@@ -1,0 +1,5 @@
+name: proxy-test
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-server-proxy
