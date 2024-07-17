@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 7238971f-534e-4c9c-b752-783bb80d1f8b
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/stevejpurves/proxy-test
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  jupyter:
+    binder:
+      url: https://y2j74k9mn0bz.curvenote.dev/services/binder/
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
